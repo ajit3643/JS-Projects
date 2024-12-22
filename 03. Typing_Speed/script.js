@@ -3,7 +3,7 @@ const sampleTexts = {
     "The quick brown fox jumps over the lazy dog. Oh sure, he did it in order to fulfil usage of all the letters of the alphabet.",
   ],
   medium: [
-    "Frontend development includes HTML, CSS, and JavaScript. HTML Stands for HYPER TEXT MARKUP LANGUAGE, CSS Stands for Cascading Style Sheets.",
+    "Frontend development includes HTML, CSS, and JavaScript. HTML Stands for HYPER TEXT MARKUP LANGUAGE, CSS Stands for Cascading Style Sheets. Code with Ajit",
   ],
   hard: [
     "Advanced JavaScript concepts include closures, promises, and async-await.Advanced JavaScript concepts include closures, promises, and async-await.,Advanced JavaScript concepts include closures, promises, and async-await.",
