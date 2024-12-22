@@ -8,6 +8,7 @@ A web application designed to measure and improve typing speed and accuracy. Use
 - **Accuracy Measurement:** Tracks and displays the percentage of correctly typed characters.
 - **Dynamic Texts:** Offers a variety of texts for practice.
 - **User-Friendly Interface:** Clean and responsive design suitable for all devices.
+- **Difficulty-Level:** There are three Difficulty Level Easy, Medium and Hard.
 
 ## Usage
 
